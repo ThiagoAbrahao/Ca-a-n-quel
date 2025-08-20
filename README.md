@@ -1,5 +1,5 @@
 # Caça-níquel
-  Neste README irei mostrar um mini jogo presente nos caças-níqueis e algumas respostas que se é possível obter. Desenvolvi um código simples escrito em python, fiz com o intuito recreativo visando manter o contato com a a linguagem e para também manter a prática de codar. É um caça-níquel padrão, com um sistema de sorteio independente, ele carrega uma lógica simplificada para manter o código mais inchuto e limpo. Funciona no próprio terminal. A seguir disponibilizei algumas imagens dele emn funcionamento.
+  Neste README irei mostrar um mini jogo presente nos caças-níqueis e algumas respostas que se é possível obter. Desenvolvi um código simples escrito em python, fiz com o intuito recreativo visando manter o contato com a a linguagem e para também manter a prática de codar. É um caça-níquel padrão, com um sistema de sorteio independente, ele carrega uma lógica simplificada para manter o código mais inchuto e limpo. Funciona no próprio terminal. A seguir disponibilizei algumas imagens dele em funcionamento.
   
 <div align = center>
   <img width="1599" height="869" alt="Screenshot_6" src="https://github.com/user-attachments/assets/fa716149-e123-49fb-b2d4-f74b549dace0" />
