@@ -4,7 +4,7 @@
 <div align = center>
   <img width="1599" height="869" alt="Screenshot_6" src="https://github.com/user-attachments/assets/fa716149-e123-49fb-b2d4-f74b549dace0" />
 </div>
-+ Nessa etapa eu definir um relógio de 3 segundos para gerar uns suspense na hora de sortear os itens nas bobinas:
+    + Nessa etapa eu definir um relógio de 3 segundos para gerar uns suspense na hora de sortear os itens nas bobinas:
 <div align = center>
 <img width="1591" height="249" alt="Screenshot_5" src="https://github.com/user-attachments/assets/8e96eb2a-d770-4be9-a4e1-ebb9a4791910" />
 </div>
